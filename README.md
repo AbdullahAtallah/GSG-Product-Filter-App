@@ -7,5 +7,5 @@ npm install
 ```
 ## And to run the application, type:
  ```bash
-npm run
+npm start
 ```
